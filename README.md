@@ -31,10 +31,6 @@
 + Building a executable for windows and unix based systems
 
 
-##### .
-- By Jesse E. Agbe (JCharis)
-- Jesus Saves @JCharisTech
-- J-Secur1ty
 
 
 
